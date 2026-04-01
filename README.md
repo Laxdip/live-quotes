@@ -74,7 +74,6 @@ Press `ESC` anytime
   <img src="assets/preview2.png" width="450"/>
 </p>
 
-<br/>
 
 📍 Bottom-right corner  
 👁 Always visible  
