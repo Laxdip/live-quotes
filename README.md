@@ -85,7 +85,7 @@ Press `ESC` anytime
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/live-quotes.git
+git clone https://github.com/laxdip/live-quotes.git
 cd live-quotes
 ```
 
