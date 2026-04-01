@@ -69,11 +69,12 @@ Press `ESC` anytime
 
 ## 📸 Preview
 
-```
-"Do something today that your future self will thank you for."
-— Unknown
-🟢 LIVE
-```
+<p align="center">
+  <img src="assets/preview1.png" width="450"/>
+  <img src="assets/preview2.png" width="450"/>
+</p>
+
+<br/>
 
 📍 Bottom-right corner  
 👁 Always visible  
