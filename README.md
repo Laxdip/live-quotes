@@ -1,4 +1,4 @@
-# 📜 Live Quotes  
+![Preview 1](https://github.com/user-attachments/assets/cdbb9e78-522e-4500-ad32-0dd25b9f8672)# 📜 Live Quotes  
 ### _Ambient Desktop Widget for Focus & Flow_
 
 <p align="center">
@@ -70,13 +70,13 @@ Press `ESC` anytime
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/preview1.png" width="45%">
-  <img src="assets/preview2.png" width="45%">
+  <img src="https://github.com/user-attachments/assets/0e1eab27-c616-4052-a255-83c66ab1667c" width="45%">
+  <img src="https://github.com/user-attachments/assets/746dea60-d566-4869-8e36-0fb21a1efbf2" width="45%">
 </p>
 
 📍 Bottom-right corner  
 👁 Always visible  
-🧘 Never distracting  
+🧘 Never distracting 
 
 ---
 
