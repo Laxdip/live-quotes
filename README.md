@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A minimal, always-on-top desktop widget that delivers real-time quotes —  
+  A minimal, always-on desktop widget that delivers real-time quotes —  
   designed to <b>blend into your workflow</b>, not interrupt it.
 </p>
 
