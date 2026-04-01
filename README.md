@@ -70,10 +70,9 @@ Press `ESC` anytime
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/preview1.png" width="450"/>
-  <img src="assets/preview2.png" width="450"/>
+  <img src="assets/preview1.png" width="45%">
+  <img src="assets/preview2.png" width="45%">
 </p>
-
 
 📍 Bottom-right corner  
 👁 Always visible  
