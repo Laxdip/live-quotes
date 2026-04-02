@@ -1,4 +1,3 @@
-![Preview 1](https://github.com/user-attachments/assets/cdbb9e78-522e-4500-ad32-0dd25b9f8672)# 📜 Live Quotes  
 ### _Ambient Desktop Widget for Focus & Flow_
 
 <p align="center">
