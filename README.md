@@ -195,13 +195,6 @@ Runs continuously in the background.
 
 ---
 
-## 🧑‍💻 Philosophy
-
-> _Build tools that don’t demand attention —  
-but improve focus silently._
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome.
@@ -210,7 +203,7 @@ If you have ideas to improve UI, performance, or features — feel free to contr
 
 ---
 
-## ⭐ Support
+## Support
 
 If you like this project:
 
@@ -220,9 +213,12 @@ If you like this project:
 
 ---
 
-## ⚡ Final Note
+## Final Note
 
 This is not just a widget.
 
-It’s a **tiny system running beside your work —  
-keeping your mind slightly sharper, every few seconds.**
+It’s a **tiny system running beside your work  keeping your mind slightly sharper, every few seconds.**
+
+```
+-Prasad
+```
