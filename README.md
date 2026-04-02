@@ -219,6 +219,6 @@ This is not just a widget.
 
 It’s a **tiny system running beside your work  keeping your mind slightly sharper, every few seconds.**
 
-```
--Prasad
-```
+## 
+
+Built by Prasad
