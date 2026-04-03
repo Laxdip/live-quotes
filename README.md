@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ What is this?
+## What is this?
 
 **Live Quotes** is a lightweight desktop widget that sits quietly in the corner of your screen and refreshes quotes every few seconds.
 
@@ -24,7 +24,7 @@ Just clean, ambient motivation while you work.
 
 ---
 
-## 🎯 Why it stands out
+## Why it stands out
 
 Most apps compete for attention.
 
@@ -38,48 +38,48 @@ It simply exists — like background music, but for your mind.
 
 ---
 
-## ✨ Features
+## Features
 
-✔ **Live Quote Streaming**  
+**Live Quote Streaming**  
 Fetches fresh quotes from ZenQuotes API  
 
-✔ **Offline Fallback System**  
+**Offline Fallback System**  
 Works even without internet  
 
-✔ **Always-on Ambient Mode**  
+**Always-on Ambient Mode**  
 Visible but never intrusive  
 
-✔ **Ultra Lightweight**  
+**Ultra Lightweight**  
 Runs silently with minimal resources  
 
-✔ **Stealth Mode**  
+**Stealth Mode**  
 No taskbar presence, no distractions  
 
-✔ **Auto Refresh Engine**  
+**Auto Refresh Engine**  
 New quote every 10–15 seconds  
 
-✔ **Minimal Aesthetic UI**  
+**Minimal Aesthetic UI**  
 Clean black + subtle typography  
 
-✔ **Instant Exit**  
+**Instant Exit**  
 Press `ESC` anytime  
 
 ---
 
-## 📸 Preview
+## Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e1eab27-c616-4052-a255-83c66ab1667c" width="45%">
   <img src="https://github.com/user-attachments/assets/746dea60-d566-4869-8e36-0fb21a1efbf2" width="45%">
 </p>
 
-📍 Bottom-right corner  
-👁 Always visible  
-🧘 Never distracting 
+-Bottom right corner  
+-Always visible  
+-Never distracting 
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repo
 ```bash
@@ -99,7 +99,7 @@ python app.py
 
 ---
 
-## ⚡ Quick Launch Options
+## Quick Launch Options
 
 ### Option 1 — Manual (Python)
 
@@ -121,7 +121,7 @@ This will automatically launch the widget.
 
 ---
 
-## 📄 What does the `.bat` file do?
+## What does the `.bat` file do?
 
 The `start_quotes.bat` file is a simple Windows script that runs your app.
 
@@ -143,16 +143,16 @@ pause
 
 ---
 
-## 💡 Why use the .bat file?
+## Why use the .bat file?
 
-- One-click launch  
+- One click launch  
 - No need to open terminal  
-- Beginner-friendly  
+- Beginner friendly  
 - Can be added to startup for auto-run  
 
 ---
 
-## ⚙️ Run on Startup (Windows)
+## Run on Startup (Windows)
 
 1. Press `Win + R`  
 2. Type:
@@ -165,7 +165,7 @@ Now the widget starts automatically on boot 🚀
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Python** — Core logic  
 - **Tkinter** — GUI  
@@ -173,7 +173,7 @@ Now the widget starts automatically on boot 🚀
 
 ---
 
-## 🧪 How it works
+## How it works
 
 1. Fetches quote from API  
 2. Displays it in floating window  
@@ -184,22 +184,22 @@ Runs continuously in the background.
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
-- 🎛 Custom themes (dark / glass / neon)
-- 📍 Draggable widget position
-- 🧠 Smart quote categories (dev / mindset / humor)
-- 💾 Local quote database expansion
-- ⌨️ Custom hotkeys
-- 🌈 Smooth animations & transitions
+- Custom themes (dark / glass / neon)
+- Draggable widget position
+- Smart quote categories (dev / mindset / humor)
+- Local quote database expansion
+- Custom hotkeys
+- Smooth animations & transitions
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome.
 
-If you have ideas to improve UI, performance, or features — feel free to contribute.
+If you have ideas to improve, performance, or features feel free to contribute.
 
 ---
 
@@ -207,13 +207,13 @@ If you have ideas to improve UI, performance, or features — feel free to contr
 
 If you like this project:
 
-- ⭐ Star the repo  
-- 🔁 Share it  
-- 🛠 Build something on top of it  
+- Star the repo  
+- Share it  
+- Build something on top of it  
 
 ---
 
-## Final Note
+## Note
 
 This is not just a widget.
 
