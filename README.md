@@ -1,4 +1,4 @@
-### _Ambient Desktop Widget for Focus & Flow_
+#### _Ambient Desktop Widget for Focus & Flow_
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.6+-blue?style=for-the-badge&logo=python">
