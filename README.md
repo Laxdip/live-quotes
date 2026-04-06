@@ -13,7 +13,18 @@
 </p>
 
 ---
+## Preview
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0e1eab27-c616-4052-a255-83c66ab1667c" width="45%">
+  <img src="https://github.com/user-attachments/assets/746dea60-d566-4869-8e36-0fb21a1efbf2" width="45%">
+</p>
+
+-Bottom right corner  
+-Always visible  
+-Never distracting 
+
+---
 ## What is this?
 
 **Live Quotes** is a lightweight desktop widget that sits quietly in the corner of your screen and refreshes quotes every few seconds.
@@ -63,19 +74,6 @@ Clean black + subtle typography
 
 **Instant Exit**  
 Press `ESC` anytime  
-
----
-
-## Preview
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0e1eab27-c616-4052-a255-83c66ab1667c" width="45%">
-  <img src="https://github.com/user-attachments/assets/746dea60-d566-4869-8e36-0fb21a1efbf2" width="45%">
-</p>
-
--Bottom right corner  
--Always visible  
--Never distracting 
 
 ---
 
